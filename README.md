@@ -8,7 +8,7 @@ Ten zasób to kompletny materiał edukacyjny w formie interaktywnej prezentacji.
 
 ## Do kogo skierowany jest materiał?
 
-Moduł został przygotowany z myślą o osobach, które chcą poznać praktyczne zastosowania algorytmów ML w kontekście medycznym - zarówno studentach, jak i praktyków szukających wprowadzenia do tematu telediagnostyki.
+Moduł został przygotowany z myślą o osobach, które chcą poznać praktyczne zastosowania algorytmów ML w kontekście medycznym - zarówno studentach, jak i praktykach szukających wprowadzenia do tematu telediagnostyki.
 
 ## Uruchomienie modułu
 
